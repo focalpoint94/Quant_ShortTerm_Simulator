@@ -95,6 +95,7 @@ transaction_params = {
 - 누적 수익률
 
 ![누적 수익률 그래프](https://user-images.githubusercontent.com/55021961/140011923-200ef728-9013-40ad-8c72-df39871f298d.png)
+![title](/img/myImg.png){: width="100" height="100"}
 
 ## 매매 결과
 results.txt에 저장됩니다.
