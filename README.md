@@ -93,8 +93,6 @@ transaction_params = {
 ![코스피 수익률 - 전략 수익률 Scatter Plot](https://user-images.githubusercontent.com/55021961/140011929-918a4739-ef18-4964-b00e-fc5c56281f7b.png)
 
 - 누적 수익률
-
-![누적 수익률 그래프](https://user-images.githubusercontent.com/55021961/140011923-200ef728-9013-40ad-8c72-df39871f298d.png)
 <img src = "https://raw.githubusercontent.com/focalpoint94/Quant_ShortTerm_Simulator/main/V5/results/ETF-VBS-Mixed12-Basket8-Year2/graphs/%EB%88%84%EC%A0%81%20%EC%88%98%EC%9D%B5%EB%A5%A0%20%EA%B7%B8%EB%9E%98%ED%94%84.png" width="50%" height="50%">
 
 
