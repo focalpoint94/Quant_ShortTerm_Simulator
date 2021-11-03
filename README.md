@@ -81,16 +81,13 @@ transaction_params = {
 전체 매매 결과를 그래프로 요약합니다.
 
 - 월간 수익률 그래프
-
-![월간 수익률 그래프](https://user-images.githubusercontent.com/55021961/140011924-7ec70f35-4e8d-46a9-95e8-414f65eaac64.png)
+<img src = "https://github.com/focalpoint94/Quant_ShortTerm_Simulator/blob/main/V5/results/ETF-VBS-Mixed12-Basket8-Year2/graphs/%EC%9B%94%EA%B0%84%20%EC%88%98%EC%9D%B5%EB%A5%A0%20%EA%B7%B8%EB%9E%98%ED%94%84.png?raw=true" width="50%" height="50%">
 
 - 일 평균 수익률
-
-![일 평균 수익률](https://user-images.githubusercontent.com/55021961/140011927-6f62d23b-b224-4093-8f5e-23df0dd54dc1.png)
+<img src = "https://github.com/focalpoint94/Quant_ShortTerm_Simulator/blob/main/V5/results/ETF-VBS-Mixed12-Basket8-Year2/graphs/%EC%9D%BC%20%ED%8F%89%EA%B7%A0%20%EC%88%98%EC%9D%B5%EB%A5%A0.png?raw=true" width="50%" height="50%">
 
 - 코스피/매매 수익률 Scatter Plot
-
-![코스피 수익률 - 전략 수익률 Scatter Plot](https://user-images.githubusercontent.com/55021961/140011929-918a4739-ef18-4964-b00e-fc5c56281f7b.png)
+<img src = "https://github.com/focalpoint94/Quant_ShortTerm_Simulator/blob/main/V5/results/ETF-VBS-Mixed12-Basket8-Year2/graphs/%EC%BD%94%EC%8A%A4%ED%94%BC%20%EC%88%98%EC%9D%B5%EB%A5%A0%20-%20%EC%A0%84%EB%9E%B5%20%EC%88%98%EC%9D%B5%EB%A5%A0%20Scatter%20Plot.png?raw=true" width="50%" height="50%">
 
 - 누적 수익률
 <img src = "https://raw.githubusercontent.com/focalpoint94/Quant_ShortTerm_Simulator/main/V5/results/ETF-VBS-Mixed12-Basket8-Year2/graphs/%EB%88%84%EC%A0%81%20%EC%88%98%EC%9D%B5%EB%A5%A0%20%EA%B7%B8%EB%9E%98%ED%94%84.png" width="50%" height="50%">
